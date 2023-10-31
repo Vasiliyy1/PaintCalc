@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="radio10Percent" type="id" />
+    <item name="radio15Percent" type="id" />
+    <item name="radioNoReserve" type="id" />
+</resources>
